@@ -1,5 +1,3 @@
-# *WELCOME TO MY HOMEPAGE*
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,7 +16,7 @@ p.main {
 </style>
 </head>
 <body>
-
+# *WELCOME TO MY HOMEPAGE*
 <h1>CSS text-align Example</h1>
 
 <p class="date">May, 2014</p>
