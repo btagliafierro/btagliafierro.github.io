@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: INDEX
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: index.md
 --- 

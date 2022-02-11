@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
----
-
-More about this website. gggggg
+title: PAGE TITLE HERE
+layout: template
+filename: NAME OF THIS .md FILE HERE
+--- 
