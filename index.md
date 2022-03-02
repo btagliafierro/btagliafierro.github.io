@@ -10,8 +10,8 @@ ___
 
 ### CURRENT POSITIONS
 #### Doctoral Student @ **UNIVERSITY OF SALERNO**, Italy (Nov 2018 - present)
-> -Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
-  - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
+> - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
+> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
   
 #### Researcher @ **EPhysLab**, University of Vigo, Spain (Jan 2019 - present)
   
