@@ -5,7 +5,7 @@
 
 ####  Scopus ID: [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923) ####
 
-[Home](README.md) - [Profile](PAGES/PROFILE/profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
+[Home](README.md) - [Profile](PAGES/PROFILE/profile.md) - [Publication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
 ___
 
 ### CURRENT POSITIONS
@@ -15,7 +15,10 @@ ___
   
 #### Researcher @ **EPhysLab**, University of Vigo, Spain (Jan 2019 - present)
   
-R&D _SPH frameworks for renewable energy_: numerical modeling for wave energy converters (WECs) and anchoring bases for offshore wind turbines. Developing new functionalities for DualSPHysics; software validation.
+R&D _SPH frameworks for renewable energy_:
+  > - Numerical modeling for wave energy converters (WECs)
+  > - Anchoring bases for offshore wind turbines
+  > - Developing new functionalities for DualSPHysics; software validation
   
 
 <figure class="video_container">
