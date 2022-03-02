@@ -1,4 +1,4 @@
-#  <center> Bonaventura TAGLIAFIERRO <center>
+#  <center> Bonaventura TAGLIAFIERRO <center> #
 ___
 ___
 #### <center> Civil Engineer & Architect | Student <center>
@@ -12,7 +12,7 @@ ___
 
 
 
-## CURRENT POSITIONS
+## CURRENT POSITIONS##
 **Doctoral Student**
 
 *UNIVERSITY OF SALERNO*, Italy (Nov 2018 - present)
@@ -21,7 +21,7 @@ Investigation of seismic protection of adjustable pallet racking systems with ba
 **Partner ** 
 
 *EPhysLab*, University of Vigo, Spain (Jan 2019 - present)
-> <P ALIGN="JUSTIFY"> R\&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave energy converters (WECs) and anchoring bases for offshore wind turbines. Developing new functionalities for DualSPHysics; software validation. <P ALIGN="JUSTIFY"> 
+R&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave energy converters (WECs) and anchoring bases for offshore wind turbines. Developing new functionalities for DualSPHysics; software validation. <P ALIGN="JUSTIFY"> 
 
 <video width="520" height="440" autoplay loop muted playsinline>
   <source src="video\extreme_lat.avi" type="video/avi">
