@@ -1,7 +1,7 @@
 #  <center> Bonaventura TAGLIAFIERRO <center> #
 ___
 ___
-#### <center> Civil Engineer & Architect | Student <center>
+####  Civil Engineer & Architect | Student 
 
 ####  Scopus ID: [Template di prova](https://www.scopus.com) ####
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57203894923">Scopus ID:57203894923</a> 
@@ -22,6 +22,7 @@ Investigation of seismic protection of adjustable pallet racking systems with ba
 
 *EPhysLab*, University of Vigo, Spain (Jan 2019 - present)
 R&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave energy converters (WECs) and anchoring bases for offshore wind turbines. Developing new functionalities for DualSPHysics; software validation.
+
 <html> 
 <body> 
 <video width="520" autoplay loop muted playsinline>
