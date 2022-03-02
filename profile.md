@@ -23,8 +23,9 @@ R&D _SPH frameworks for renewable energy_:
   
 ### PAST POSITIONS
 #### Fellow research @ **EPhysLab**, University of Vigo, Spain (Jun 2018 - June 2019)
-> - Coastal protection
-> - Wave eber
+> - Part-time contract for Numerical modeling of wave energy converters (WECs)
+> - Control, optimization, and survivability analyses of a PTO system developed by Sandia National Laboratories (US).
+
 
   
 
