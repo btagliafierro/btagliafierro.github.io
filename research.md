@@ -5,7 +5,7 @@
 ####  Scopus ID: [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923)
 ####  Scholar: [btagliafierro](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ)
 
-[Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
+[Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publication](publication.md) - [Conference and Workshop](events.md) - [Experience](experience) - [Contact](contact.md) 
 ___
 ### FLOATING OFFSHORE WIND TURBINES
 #### **Tension-leg platfort** 
