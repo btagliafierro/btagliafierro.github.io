@@ -21,7 +21,7 @@ ___
 > - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
 > - Experience in steel structure frameworks, seismic isolation systems, and structural optimization.
   
-<video width="680" auto-play="true" loop="loop" muted="muted" > 
+<video width="680" autoplay loop muted markdown="1" > 
   <source src="video/extreme_lat.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
