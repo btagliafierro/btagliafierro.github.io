@@ -30,7 +30,7 @@ R&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave en
   
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" allowfullscreen="true">
     <source src="video/extreme_lat.avi" type="video/avi">
   </video>
 </figure>
