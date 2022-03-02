@@ -3,7 +3,7 @@ ___
 ___
 #### <center> Civil Engineer & Architect | Student <center>
 
-#### <center>Scopus ID: [Template di prova](https://www.scopus.com "Scopus") <center>
+#### <center>Scopus ID: [Template di prova](https://www.scopus.com) <center>
 <a href="abc.php">ABC</a> 
 ___
 
