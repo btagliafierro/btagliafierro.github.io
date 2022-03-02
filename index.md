@@ -1,5 +1,3 @@
-<html> 
-<body> 
 
 #  <center> Bonaventura TAGLIAFIERRO <center> #
 ___
@@ -31,5 +29,4 @@ R&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave en
   <source src="video/extreme_lat.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
-</body> 
-</html>
+
