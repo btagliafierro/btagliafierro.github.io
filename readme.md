@@ -7,7 +7,7 @@ ___
 
 ___
 
-[Home](README.md) - [Profile](PAGES/PROFILE/profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
+[Home](README.md) - [Profile](profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
 
 ___
 
