@@ -24,14 +24,8 @@ R&D _SPH frameworks for renewable energy_:
   
 ### PAST POSITIONS
 #### Fellow research @ **EPhysLab**, University of Vigo, Spain (Jun 2018 - June 2019)
-> - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
-> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
-  
-#### Researcher @ **EPhysLab**, University of Vigo, Spain (Jan 2019 - present)
-  
-R&D _SPH frameworks for renewable energy_:
-  > - Numerical modeling for wave energy converters (WECs)
-  > - Anchoring bases for offshore wind turbines
-  > - Developing new functionalities for DualSPHysics; software validation
+> - Coastal protection
+> - Wave eber
+
   
 
