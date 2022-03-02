@@ -7,6 +7,10 @@
 
 [Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
 ___
+### FLOATING OFFSHORE WIND TURBINES
+#### **Tension-leg platfort** 
+> - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
+> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
 
 ### WAVE ENERGY CONVERTERS
 #### **Uppsala WEC** Point Absorbers
