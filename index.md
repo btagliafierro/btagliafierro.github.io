@@ -23,41 +23,11 @@ R&D _SPH frameworks for renewable energy_:
   
 
 <figure class="video_container">
-  <video width="pageWidth" controls="true" allowfullscreen="true" autoplay="true" loop="loop" muted="muted">
+  <video width="full-width" controls="true" allowfullscreen="true" autoplay="true" loop="loop" muted="muted">
     <source src="video/extreme_lat.mp4" type="video/mp4">
   </video>
 </figure>
-  
-<html>
-<head>
-<style>
-div.ex1 {
-  width: 500px;
-  margin: auto;
-  border: 3px solid #73AD21;
-}
-
-div.ex2 {
-  max-width: 500px;
-  margin: auto;
-  border: 3px solid #73AD21;
-}
-</style>
-</head>
-<body>
-
-<h2>CSS Max-width</h2>
-
-<div class="ex1">This div element has width: 500px;</div>
-<br>
-
-<div class="ex2">This div element has max-width: 500px;</div>
-
-<p><strong>Tip:</strong> Drag the browser window to smaller than 500px wide, to see the difference between 
-the two divs!</p>
-
-</body>
-</html>
+ 
   
 
 
