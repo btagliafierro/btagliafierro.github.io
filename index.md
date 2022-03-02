@@ -23,7 +23,7 @@ R&D _SPH frameworks for renewable energy_:
   
 
 <figure class="video_container">
-  <video width="device-width" controls="true" allowfullscreen="true" autoplay="true" loop="loop" muted="muted">
+  <video width="pageWidth" controls="true" allowfullscreen="true" autoplay="true" loop="loop" muted="muted">
     <source src="video/extreme_lat.mp4" type="video/mp4">
   </video>
 </figure>
