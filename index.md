@@ -25,7 +25,7 @@ R&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave en
 
 <html> 
 <body> 
-<video width="520" autoplay loop muted playsinline>
+<video width="520" auto-play="true" loop="loop" muted="muted" plays-inline="true">
   <source src="video/extreme_lat.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
