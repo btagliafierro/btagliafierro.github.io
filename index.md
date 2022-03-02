@@ -3,7 +3,7 @@
 ===
 ####  Civil Engineer & Architect | Student 
 
-####  Scopus ID: [Scopus ID:57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923) ####
+####  Scopus ID: [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923) ####
 
 [Home](README.md) - [Profile](PAGES/PROFILE/profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
 
