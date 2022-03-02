@@ -20,8 +20,8 @@ ___
 
 **Partner ** 
 
-*UNIVERSITA*, Salerno (Jan 2019 - present)
-> <P ALIGN="JUSTIFY"> Parlami o diva del pelide aCHILLE<P ALIGN="JUSTIFY"> 
+*EPhysLab*, University of Vigo, Spain (Jan 2019 - present)
+> <P ALIGN="JUSTIFY"> R\&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave energy converters (WECs) and anchoring bases for offshore wind turbines. Developing new functionalities for DualSPHysics; software validation. <P ALIGN="JUSTIFY"> 
 
 <video width="520" height="440" controls>
   <source src="VIDEO\movie.mp4" type="video/mp4">
