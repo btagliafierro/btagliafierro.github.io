@@ -12,4 +12,7 @@ ___
 #### **Uppsala WEC** Point Absorbers
 > - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
 > - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
-  
+
+#### **FOSWEC2** Flaps 
+> - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
+> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
