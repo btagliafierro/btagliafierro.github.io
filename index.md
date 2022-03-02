@@ -1,3 +1,6 @@
+<html> 
+<body> 
+
 #  <center> Bonaventura TAGLIAFIERRO <center> #
 ___
 ___
@@ -23,8 +26,7 @@ Investigation of seismic protection of adjustable pallet racking systems with ba
 *EPhysLab*, University of Vigo, Spain (Jan 2019 - present)
 R&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave energy converters (WECs) and anchoring bases for offshore wind turbines. Developing new functionalities for DualSPHysics; software validation.
 
-<html> 
-<body> 
+
 <video width="520" auto-play="true" loop="loop" muted="muted" plays-inline="true">
   <source src="video/extreme_lat.avi" type="video/avi">
   Your browser does not support the video tag.
