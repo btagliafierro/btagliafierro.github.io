@@ -20,11 +20,18 @@ R&D _SPH frameworks for renewable energy_:
   > - Numerical modeling for wave energy converters (WECs)
   > - Anchoring bases for offshore wind turbines
   > - Developing new functionalities for DualSPHysics; software validation
+
+  
+### PAST POSITIONS
+#### Fellow research @ **EPhysLab**, University of Vigo, Spain (Jun 2018 - June 2019)
+> - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
+> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
+  
+#### Researcher @ **EPhysLab**, University of Vigo, Spain (Jan 2019 - present)
+  
+R&D _SPH frameworks for renewable energy_:
+  > - Numerical modeling for wave energy converters (WECs)
+  > - Anchoring bases for offshore wind turbines
+  > - Developing new functionalities for DualSPHysics; software validation
   
 
-<figure class="video_container">
-  <video width="device-width" controls="true" allowfullscreen="true" autoplay="true" loop="loop" muted="muted">
-    <source src="video/extreme_lat.mp4" type="video/mp4">
-  </video>
-</figure>
-  
