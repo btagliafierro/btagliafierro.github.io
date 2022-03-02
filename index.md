@@ -1,7 +1,6 @@
 
 #  <center> Bonaventura TAGLIAFIERRO <center> #
-___
-___
+===
 ####  Civil Engineer & Architect | Student 
 
 ####  Scopus ID: [Scopus ID:57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923) ####
