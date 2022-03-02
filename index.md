@@ -17,7 +17,7 @@ ___
 **Doctoral Student**
 
 *UNIVERSITY OF SALERNO*, Italy (Nov 2018 - present)
-><P ALIGN="JUSTIFY"> per me si va nell'eterno dolore  
+><P ALIGN="JUSTIFY"> Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. Experience in steel structure frameworks, seismic isolation systems, and structural optimization. Taking courses on low-level programming languages, genetic algorithms, and neural networks.
 
 **Partner ** 
 
