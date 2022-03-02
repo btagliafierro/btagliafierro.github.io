@@ -16,14 +16,14 @@ ___
 **Doctoral Student**
 
 *UNIVERSITY OF SALERNO*, Italy (Nov 2018 - present)
-><P ALIGN="JUSTIFY"> Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. Experience in steel structure frameworks, seismic isolation systems, and structural optimization. Taking courses on low-level programming languages, genetic algorithms, and neural networks.
+Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. Experience in steel structure frameworks, seismic isolation systems, and structural optimization. Taking courses on low-level programming languages, genetic algorithms, and neural networks.
 
 **Partner ** 
 
 *EPhysLab*, University of Vigo, Spain (Jan 2019 - present)
 > <P ALIGN="JUSTIFY"> R\&D \textit{SPH frameworks for renewable energy:} numerical modeling for wave energy converters (WECs) and anchoring bases for offshore wind turbines. Developing new functionalities for DualSPHysics; software validation. <P ALIGN="JUSTIFY"> 
 
-<video width="520" height="440" controls autoplay loop muted playsinline>
-  <source src="video\extreme_lat.avi" type="video/mp4">
+<video width="520" height="440" autoplay loop muted playsinline>
+  <source src="video\extreme_lat.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
