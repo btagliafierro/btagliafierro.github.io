@@ -19,4 +19,9 @@ ___
 
 #### **FOSWEC2** Flaps 
 > - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
-> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
+> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization.
+  
+<video width="520" auto-play="true" loop="loop" muted="muted" plays-inline="true" > 
+  <source src="video/extreme_lat.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
