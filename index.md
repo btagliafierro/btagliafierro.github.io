@@ -1,9 +1,9 @@
-#  <center>Bonaventura TAGLIAFIERRO<center>
+#  <center> Bonaventura TAGLIAFIERRO <center>
 ___
 ___
 #### <center> Civil Engineer & Architect | Student <center>
 
-#### <center> Scopus ID: [Template di prova](https://www.scopus.com) <center> ####
+####  Scopus ID: [Template di prova](https://www.scopus.com) ####
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57203894923">Scopus ID:57203894923</a> 
 
 [Home](README.md) - [Profile](PAGES/PROFILE/profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
