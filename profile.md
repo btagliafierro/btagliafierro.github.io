@@ -26,6 +26,10 @@ R&D _SPH frameworks for renewable energy_:
 > - Part-time contract for Numerical modeling of wave energy converters (WECs)
 > - Control, optimization, and survivability analyses of a PTO system developed by Sandia National Laboratories (US).
 
+#### Fellow research @ **EPhysLab**, University of Vigo, Spain (Jun 2018 - June 2019)
+> - Part-time contract for Numerical modeling of wave energy converters (WECs)
+> - Control, optimization, and survivability analyses of a PTO system developed by Sandia National Laboratories (US).
+
 
   
 
