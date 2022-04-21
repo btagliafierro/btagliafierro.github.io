@@ -28,9 +28,15 @@ R&D _SPH frameworks for renewable energy_:
 
 #### Visiting Researcher Scholar @ **EPhysLab**, University of Vigo, Spain (June - Aug 2021)
 > - Research activities  co-funded by the Wave Energy Converter Array Network ([WECANet](https://www.cost.eu/actions/CA17105)), and EPhysLab. Improvement of the current version of DualSPHysics. Investigation of the Uppsala WEC device, a point absorber equipped with a sophisticated power take-off system developed and tested by the Uppsala University (Sweden).
+  
+#### Visiting Researcher Scholar @ **National Technical University of Athens**, Greece (Mar 2020 - Feb 2021)
+> - Laboratory testing to assess base-plate connection performance
+> - Numerical modeling of the base plate using a beam element based framework (open source)
 
 #### Visiting Researcher Scholar @ **FIP Industriale**, Padova, Italy (Sep 2019 - Feb 2020)
-> - Responsible for designing and implementing laboratory testing to assess a novel isolator’s performance; open-source code used to reproduce the tests and improve quality and validity of results; designed base isolation systems for retrofitting existing structures.
+> - Responsible for designing and implementing laboratory testing to assess a novel isolator’s performance
+> - Open-source code used to reproduce the tests and improve quality and validity of results
+> - Designed base isolation systems for retrofitting existing structures.
 
   #### Postgraduated Fellow @ **EPhysLab**, University of Vigo, Spain (June 2018 - June 2019)
 > - Part-time contract for Numerical modeling of wave energy converters (WECs)
