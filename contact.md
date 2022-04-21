@@ -8,4 +8,4 @@
 [Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publications](publication.md) - [Conferences and Workshops](events.md) - [Experience](experience) - [Contact](contact.md)
 ___
 
-[mailto:btagliafierro@gmail.com](btagliafierro@gmail.com)
+[btagliafierro@gmail.com](mailto:btagliafierro@gmail.com)
