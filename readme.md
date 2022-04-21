@@ -7,10 +7,9 @@ ___
 
 ___
 
-[Home](README.md) - [Profile](profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Expirience](http://www.google.it) - [Contact](http://www.google.it) 
+[Home](README.md) - [Profile](profile.md) - [Pubblication](http://www.google.it) - [Conference and Workshop](http://www.google.it) - [Experience](http://www.google.it) - [Contact](http://www.google.it) 
 
 ___
-
 
 
 ## CURRENT POSITIONS
