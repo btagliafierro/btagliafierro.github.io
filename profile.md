@@ -23,7 +23,7 @@ R&D _SPH frameworks for renewable energy_:
   
 ### PAST POSITIONS
 
-#### Visiting Researcher Scholar @ **MRC**, Quees'S University Belfast, UK (Jan - Apr 2022)
+#### Visiting Researcher Scholar @ **MRC**, Queen's University Belfast, UK (Jan - Apr 2022)
 > - Research activities co-funded by HPC-Europa3 program ([HPC-Europa3](http://www.hpc-europa.eu/)). Investigation of tension-leg platform performance using the SPH method. Simulations performed on the CirrusII supercomputer (Univestity of Edimburgh, UK). Long simulation with extreme sea states defined through 50-year return period events.
 
 #### Visiting Researcher Scholar @ **EPhysLab**, University of Vigo, Spain (June - Aug 2021)
