@@ -8,7 +8,7 @@
 [Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publication](publication.md) - [Conference and Workshop](events.md) - [Experience](experience) - [Contact](contact.md) 
 ___
 ### SEISMIC ISOLATION OF INDUSTRIAL RACKS
-#### **Tension-leg platform** 
+#### **Pallet racking systems** 
 > - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
 > - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
 > - Design of new devices to enhance seismic performance of racks. 
