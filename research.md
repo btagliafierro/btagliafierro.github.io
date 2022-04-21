@@ -7,19 +7,25 @@
 
 [Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publication](publication.md) - [Conference and Workshop](events.md) - [Experience](experience) - [Contact](contact.md) 
 ___
-### FLOATING OFFSHORE WIND TURBINES
+### SEISMIC ISOLATION OF INDUSTRIAL RACKS
 #### **Tension-leg platform** 
 > - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
 > - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
+> - Design of new devices to enhance seismic performance of racks. 
+  
+### FLOATING OFFSHORE WIND TURBINES
+#### **Tension-leg platform** 
+> - Numerical validation of MoorDyn+ library for tendons. 
+> - Modeling of TLP using CFD solvers
 
 ### WAVE ENERGY CONVERTERS
 #### **Uppsala WEC** Point Absorbers
-> - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
-> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization. 
+> - Mesh-less framework for point absorbers with power take-offs (PTOs). 
+> - Moor lines tension investigation under extreme events. 
 
 #### **FOSWEC2** Flaps 
-> - Investigation of seismic protection of adjustable pallet racking systems with base isolation systems. 
-> - Experience in steel structure frameworks, seismic isolation systems, and structural optimization.
+> - Mechanical system validation in collaboration with SANDIA (US). 
+> - Numerical validation with regular wave and PTOs on.
   
 <video width="680" autoplay loop muted markdown="1" align="center" frameborder="1"> 
   <source src="video/extreme_lat.mp4" type="video/mp4">
