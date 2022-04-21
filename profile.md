@@ -31,7 +31,7 @@ R&D _SPH frameworks for renewable energy_:
 #### Visiting Researcher Scholar @ **FIP Industriale**, Padova, Italy (Sep 2019 - Feb 2020)
 > - Responsible for designing and implementing laboratory testing to assess a novel isolator’s performance; open-source code used to reproduce the tests and improve quality and validity of results; designed base isolation systems for retrofitting existing structures.
 
-  #### Fellow research @ **EPhysLab**, University of Vigo, Spain (June 2018 - June 2019)
+  #### Postgraduated Fellow @ **EPhysLab**, University of Vigo, Spain (June 2018 - June 2019)
 > - Part-time contract for Numerical modeling of wave energy converters (WECs)
 > - Control, optimization, and survivability analyses of a PTO system developed by Sandia National Laboratories (US).
 
