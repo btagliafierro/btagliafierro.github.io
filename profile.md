@@ -43,5 +43,5 @@ R&D _SPH frameworks for renewable energy_:
 > - Control, optimization, and survivability analyses of a PTO system developed by Sandia National Laboratories (US).
 
 
-#### Erasmus+ @ **FLANDERS HYDRAULICS RESEARCH**, Belgium (Mar - Aug 2017 \& Feb - Mar 2018)
+#### Erasmus+ @ **FLANDERS HYDRAULICS RESEARCH**, Belgium (Mar - Aug 2017 & Feb - Mar 2018)
 > - Development and validation of a coupling technique of the Lagrangian model DualSPHysics with the *NSLW* model *SWASH* for coastal engineering applications; visited the *EPhysLab* (Spain) to collaborate with the code developer team; performed a second stage of two months to complement my previous research, applying the technique to a dike wall. Invited to perform a second stage of two months to complement my previous research, applying the technique to a dike wall.
