@@ -38,7 +38,7 @@ R&D _SPH frameworks for renewable energy_:
 > - Open-source code used to reproduce the tests and improve quality and validity of results
 > - Designed base isolation systems for retrofitting existing structures.
 
-  #### Postgraduated Fellow @ **EPhysLab**, University of Vigo, Spain (June 2018 - June 2019)
+#### Postgraduated Fellow @ **EPhysLab**, University of Vigo, Spain (June 2018 - June 2019)
 > - Part-time contract for Numerical modeling of wave energy converters (WECs)
 > - Control, optimization, and survivability analyses of a PTO system developed by Sandia National Laboratories (US).
 
