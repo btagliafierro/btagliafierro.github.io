@@ -11,6 +11,36 @@
 
 <ol start="1">
   <li>
+  Wang L., et al. <b>Tagliafierro B.</b> <i>OC7 phase I: Toward practical sea-state-dependent modeling of hydrodynamic viscous drag and damping.</i> Ocean Engineering, 2025, 336, 121745; <a href="https://doi.org/10.1016/j.oceaneng.2025.121745">doi</a>
+  </li>
+  <li>
+  Yu S., et al. <b>Tagliafierro B.</b> <i>Modelling the hydrodynamic response of a floating offshore wind turbine – a comparative study.</i> Applied Ocean Research, 2025, 155, 104441; <a href="https://doi.org/10.1016/j.apor.2025.104441">doi</a>
+  </li>
+  <li>
+  Capasso S., <b>Tagliafierro B.</b>, Martínez-Estévez I., Altomare C., Gómez-Gesteira M., Göteman M., Viccione G. <i>Development of an SPH-based numerical wave–current tank and application to wave energy converters.</i> Applied Energy, 2025, 377; <a href="https://doi.org/10.1016/j.apenergy.2024.124508">doi</a>
+  </li>
+  <li>
+  <b>Tagliafierro B.</b>, Montuori R., Vayas I. <i>Seismic design-assisted-by-testing approach for racks with dissipative baseplates in the cross-aisle direction.</i> Thin-Walled Structures, 2024, 202, 112126; <a href="https://doi.org/10.1016/j.tws.2024.112126">doi</a>
+  </li>
+  <li>
+  El Rahi J., Martínez-Estévez I., Almeida Reis R., <b>Tagliafierro B.</b>, Domínguez J.M., Crespo A.J.C., Stratigaki V., Suzuki T., Troch P. <i>Exploring Wave–Vegetation Interaction in 3D using DualSPHysics–Chrono coupling.</i> Ocean Engineering, 2024, 285, 115227; <a href="https://doi.org/10.1016/j.oceaneng.2023.115227">doi</a>
+  </li>
+  <li>
+  Martínez-Estévez I., Tagliafierro B., El Rahi J., Domínguez J.M., Crespo A.J.C., Troch P., Gómez-Gesteira M. <i>Coupling an SPH-based solver with an FEA structural solver to simulate free-surface flows interacting with flexible structures.</i> Computer Methods in Applied Mechanics and Engineering, 2023, 410, 115989; <a href="https://doi.org/10.1016/j.cma.2023.115989">doi</a>
+  </li>
+  <li>
+  Capasso S., <b>Tagliafierro B.</b>, Mancini S., Martínez-Estévez I., Altomare C., Domínguez J.M., Viccione G. <i>Regular Wave Seakeeping Analysis of a Planing Hull by Smoothed Particle Hydrodynamics: A Comprehensive Validation.</i> Journal of Marine Science and Engineering, 2023, 11(4), 700; <a href="https://doi.org/10.3390/jmse11040700">doi</a>
+  </li>
+  <li>
+  Martínez-Estévez I., Domínguez J.M., <b>Tagliafierro B.</b>, Canelas R., García-Feal O., Crespo A.J.C., Gómez-Gesteira M. <i>Coupling of an SPH-based solver with a multiphysics library.</i> Computer Physics Communications, 2023, 283, 108581; <a href="https://doi.org/10.1016/j.cpc.2022.108581">doi</a>
+  </li>
+  <li>
+  Montuori R., Nastri E., <b>Tagliafierro B.</b> <i>Residual drift control strategies: extension and application to MDOF systems.</i> Bulletin of Earthquake Engineering, 2023; <a href="https://doi.org/10.1007/s10518-023-01837-1">doi</a>
+  </li>
+  <li>
+  <b>Tagliafierro B.</b>, Karimirad M., Altomare C., Göteman M., Martínez-Estévez I., Capasso S., Domínguez J.M., Viccione G., Gómez-Gesteira M., Crespo A.J.C. <i>Numerical validations and investigation of a semi-submersible floating offshore wind turbine platform using an SPH framework.</i> Applied Ocean Research, 2023, 141, 103757; <a href="https://doi.org/10.1016/j.apor.2023.103757">doi</a>
+  </li>
+  <li>
   <b>Tagliafierro B.</b>, Martínez-Estévez I., Domínguez J.M., Crespo A.J.C., Göteman M., Engström J., Gómez-Gesteira M. <i>A comprehensive numerical study of a taut-moored point-absorber wave energy converter with a linear power take-off system under irregular sea states.</i> Applied Energy. <a href="https://doi.org/10.1016/j.apenergy.2022.118629">doi</a>
   </li> 
   <li> Capasso S., <b>Tagliafierro B.</b>, Martínez-Estévez I., Domínguez J.M., Crespo A.J.C., Viccione G. <i>A DEM approach for simulating flexible beam elements with the project chrono core module in DualSPHysics</i>. Computational Particle Mechanics. Computational Particle Mechanics. <a href="https://doi.org/10.1007/s40571-021-00451-9">doi</a>
