@@ -1,14 +1,15 @@
-#  <center> Bonaventura TAGLIAFIERRO <center> #
+# Bonaventura TAGLIAFIERRO
 
-###  Civil Engineer & Architect | Ph.D. Student 
+#### Civil Engineer & Architect | Ph.D. | Marie Skłodowska-Curie Postdoc Researcher
 
-####  Scopus ID: [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923)
-####  Scholar: [btagliafierro](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ)
+**Scopus ID:** [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923)  
+**Scholar:** [btagliafierro](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ)
 
 [Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publications](publication.md) - [Conferences and Workshops](events.md) - [Experience](experience) - [Contact](contact.md)
 
+---
 ## Journal papers
-
+26 peer-reviewed journal publications
 <ol start="1">
   <li>
   Wang L., et al. <b>Tagliafierro B.</b> <i>OC7 phase I: Toward practical sea-state-dependent modeling of hydrodynamic viscous drag and damping.</i> Ocean Engineering, 2025, 336, 121745; <a href="https://doi.org/10.1016/j.oceaneng.2025.121745">doi</a>
@@ -71,11 +72,41 @@
 
 ## Peer-reviewed conference proceedings
 
+## Peer-reviewed conference proceedings
+
+56 conference papers, with 32 conference papers as first author, demonstrating his role as a principal researcher driving innovation in the field. 10 papers submitted to national or international conferences (5 as first author):
+
 <ol start="1">
   <li>
-  <b>Tagliafierro B.</b>, Martínez-Estévez I., Domínguez J.M., Crespo A.J.C., Göteman M., Engström J., Gómez-Gesteira M. <i>A comprehensive numerical study of a taut-moored point-absorber wave energy converter with a linear power take-off system under irregular sea states.</i> Applied Energy. <a href="https://doi.org/10.1016/j.apenergy.2022.118629">doi</a>
-  </li> 
-
+  Mina B., <b>Tagliafierro B.</b>, Martínez-Estévez I., Malara G., Arena F., Crespo A. J. C., Gómez-Gesteira M. <i>An OWC chamber model for SPH implementations on floating devices.</i> Proceedings of the 16th European Wave and Tidal Energy Conference (EWTEC). Funchal, Portugal, pp. 145–1 (2025).
+  </li>
+  <li>
+  Dupuis A., <b>Tagliafierro B.</b>, Capasso S., Göteman M., Engström J. <i>Towards Efficient Learning of Neural Fluid Force Estimators from CFD-Sampled Regular Waves.</i> Proceedings of the 16th European Wave and Tidal Energy Conference (EWTEC). Funchal, Portugal, pp. 1067–1 (2025).
+  </li>
+  <li>
+  <b>Tagliafierro B.</b>, Martínez-Estévez I., Capasso S., Domínguez J. M., Karimirad M., Viccione G., Gómez-Gesteira M., Crespo A. J. C., Göteman M. <i>Wave Power Extraction From Semi-Submersible Hybrid Platforms With Multi-Physics and High-Fidelity Simulations Powered by SPH.</i> Proceedings of the ASME 2025 44th OMAE. Vancouver, Canada (2025).
+  </li>
+  <li>
+  Mina B., <b>Tagliafierro B.</b>, Martínez-Estévez I., Altomare C., Malara G., Arena F., Gómez-Gesteira M. <i>SPH Modeling of OWCs with Pneumatic PTO: Investigation on Chamber Models and Turbine Models.</i> Proceedings of the ASME 2025 44th OMAE. Vancouver, Canada (2025).
+  </li>
+  <li>
+  Capasso S., Martínez-Estévez I., <b>Tagliafierro B.</b>, Göteman M., Altomare C., Domínguez J. M., Thiagarajan K., Gómez-Gesteira M., Viccione G., Crespo A. J. C. <i>Towards a Comprehensive Design Tool for Flexible Wave Energy Converters: Multiphysics-Augmented SPH-Based Framework.</i> Proceedings of the ASME 2025 44th OMAE. Vancouver, Canada (2025).
+  </li>
+  <li>
+  <b>Tagliafierro B.</b>, Capasso S., Viccione G., Dell'edera O., Niosi F., Martínez-Estévez I., Domínguez J., Göteman M., Karimirad M. <i>Numerical validation of a DeepCwind floating platform with inclined taut-legs under regular waves using the SPH method.</i> CRC Press/Balkema, pp. 731–738 (2025). <a href="https://doi.org/10.1201/9781003558859-80">doi</a>
+  </li>
+  <li>
+  Mina B., Martínez-Estévez I., Gómez-Gesteira M., <b>Tagliafierro B.</b>, Altomare C., Malara G., Arena F. <i>Hydrodynamic modeling of OWC and U-OWC wave energy converters using the SPH method.</i> CRC Press/Balkema, pp. 257–266 (2025). <a href="https://doi.org/10.1201/9781003558859-29">doi</a>
+  </li>
+  <li>
+  Fernandez G. V., Ferri F., Eskilsson C., <b>Tagliafierro B.</b>, Palm J. <i>Trenching of mooring lines using a discrete element method approach.</i> CRC Press/Balkema, pp. 427–435 (2025). <a href="https://doi.org/10.1201/9781003558859-47">doi</a>
+  </li>
+  <li>
+  Dell'Edera O., Niosi F., Capasso S., Martínez-Estévez I., <b>Tagliafierro B.</b> <i>Capturing wave energy converter's extreme response: Experimental validation of DualSPHysics and STAR CCM+.</i> CRC Press/Balkema, pp. 157–163 (2025). <a href="https://doi.org/10.1201/9781003558859-18">doi</a>
+  </li>
+  <li>
+  Capasso S., <b>Tagliafierro B.</b>, Göteman M., Martínez-Estévez I., Domínguez J. M., Altomare C., Gómez-Gesteira M., Crespo A. J., Viccione G. <i>Influence of Underlying Currents on the Performance of a Taut-Moored Point-Absorber Wec: An Investigation via High-End Numerical Tools.</i> Proceedings of the ASME 2024 43rd OMAE. Singapore (2024).
+  </li>
 </ol>
   
 
