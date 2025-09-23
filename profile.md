@@ -1,6 +1,6 @@
 # Bonaventura TAGLIAFIERRO
 
-#### Civil Engineer & Architect | Ph.D. | Marie Skłodowska-Curie Postdoc Researcher
+#### Researcher | Ph.D. | Marie Skłodowska-Curie Postdoc Fellow
 
 **Scopus ID:** [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923)  
 **Scholar:** [btagliafierro](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ)

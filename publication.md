@@ -72,9 +72,7 @@
 
 ## Peer-reviewed conference proceedings
 
-## Peer-reviewed conference proceedings
-
-56 conference papers, with 32 conference papers as first author, demonstrating his role as a principal researcher driving innovation in the field. 10 papers submitted to national or international conferences (5 as first author):
+46 conference papers, with 22 conference papers as first author, demonstrating his role as a principal researcher driving innovation in the field. Last 10 papers are reported here:
 
 <ol start="1">
   <li>
