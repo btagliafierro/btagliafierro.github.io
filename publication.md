@@ -61,3 +61,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=JX
 27. Montuori, R., Nastri, E., and **Tagliafierro, B.** (2019). An optimal seismic force pattern for uniform drift distribution. *Buildings* 9.11. [DOI](https://doi.org/10.3390/buildings9110231)
 
 28. Altomare, C., **Tagliafierro, B.**, Dominguez, J., Suzuki, T., and Viccione, G. (2018). Improved relaxation zone method in SPH-based model for coastal engineering applications. *Applied Ocean Research* 81, pp. 15–33.
+
+
+---
+
+[Home](index.md) · [Profile](profile.md) · [Research](research.md) · [Publications](publication.md) · [Experience](experience.md) · [Contact](contact.md)
