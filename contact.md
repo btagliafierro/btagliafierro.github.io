@@ -1,12 +1,9 @@
-# Bonaventura TAGLIAFIERRO
+# Contact
 
-#### Researcher | Ph.D. | Marie Skłodowska-Curie Postdoc Fellow
+[btagliafierro @ gmail.com](mailto:btagliafierro@gmail.com)
 
-**Scopus ID:** [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923)  
-**Scholar:** [btagliafierro](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ)
+[GitHub](https://github.com/btagliafierro) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203894923)
 
-[Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publications](publication.md) - [Conferences and Workshops](events.md) - [Experience](experience) - [Contact](contact.md)
+---
 
-___
-
-[btagliafierro@gmail.com](mailto:btagliafierro@gmail.com)
+[Home](index.md) · [Profile](profile.md) · [Research](research.md) · [Publications](publication.md) · [Experience](experience.md) · [Contact](contact.md)

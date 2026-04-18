@@ -1,58 +1,34 @@
-# Bonaventura TAGLIAFIERRO
-
-#### Civil Engineer & Architect | Ph.D. | Marie Skłodowska-Curie Postdoc Researcher
-
-**Scopus ID:** [57203894923](https://www.scopus.com/authid/detail.uri?authorId=57203894923)  
-**Scholar:** [btagliafierro](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ)
-
-[Home](index.md) - [Profile](profile.md) - [Research](research.md) - [Publications](publication.md) - [Conferences and Workshops](events.md) - [Experience](experience) - [Contact](contact.md)
+# Experience
 
 ---
-  
 
-#### Post-Doc Fellow Researcher @ **BarcelonaTech (UPC)**, Spain (Oct 2022 – July 2024)
-- R&D PI-Break: Numerical simulations to assess breakwaters performance using DualSPHysics
-- Modeling of two different areas along the main breakwater in Bilbao (Spain)
+**2024 → present** &nbsp; Postdoctoral Fellow · Uppsala University, Sweden *(Marie Skłodowska-Curie Fellow)*
+&nbsp;&nbsp;&nbsp;&nbsp;↳ **2025** &nbsp; UW–Madison SBEL, Wisconsin, USA *(research stay)*
+&nbsp;&nbsp;&nbsp;&nbsp;↳ **2025** &nbsp; EPhysLab, Universidade de Vigo, Spain *(research stay)*
 
-#### Honorary Associate @ **UW-Madison Simulation Based Engineering Lab (SBEL)**, Wisconsin (Feb - Aug 2023)
-- R&D Floating offshore wind simulation: awarded a Fulbright Schuman fellowship
-- Research on numerical implementation of control system for offshore wind technology
+**2022 → 2024** &nbsp; Postdoctoral Fellow · BarcelonaTech (UPC), Spain
+&nbsp;&nbsp;&nbsp;&nbsp;↳ **2023** &nbsp; UW–Madison SBEL, Wisconsin, USA *(Fulbright Schuman Scholar)*
 
-#### Visiting Researcher Scholar @ **Queen's University Belfast**, UK (Jan – Apr 2022)
-- Research activities co-funded by HPC-Europa3 program
-- Investigation of tension-leg platform performance using the SPH method
-- Simulations performed on the CirrusII supercomputer (University of Edinburgh, UK)
-- Long simulation with extreme sea states defined through 50-year return period events
+**2022 → present** &nbsp; Honorary Visiting Scholar · Queen's University Belfast, UK
 
-#### Visiting Researcher Scholar @ **University of Vigo**, Spain (June – Aug 2021)
-- Research activities co-funded by the Wave Energy Converter Array Network (WECANet), and EPhysLab
-- Improvement of the current version of DualSPHysics
-- Investigation of the Uppsala WEC device, a point absorber equipped with sophisticated power take-off system
+**2018 → 2022** &nbsp; PhD Researcher · University of Salerno, Italy
+&nbsp;&nbsp;&nbsp;&nbsp;↳ **2022** &nbsp; Queen's University Belfast, UK *(HPC-Europa3)*
+&nbsp;&nbsp;&nbsp;&nbsp;↳ **2021** &nbsp; Universidade de Vigo, Spain *(WECANet)*
+&nbsp;&nbsp;&nbsp;&nbsp;↳ **2020–21** &nbsp; National Technical University of Athens, Greece
+&nbsp;&nbsp;&nbsp;&nbsp;↳ **2019–20** &nbsp; FIP Industriale, Padova, Italy
 
-#### Visiting Researcher Scholar @ **National Technical University of Athens**, Greece (Mar 2020 - Feb 2021)
-- Laboratory testing to assess base-plate connection performance
-- Numerical modeling of the base plate using a beam element based framework (open source)
+**2018 → 2019** &nbsp; Postgrad Fellow · EPhysLab, Universidade de Vigo, Spain
 
-#### Visiting Researcher Scholar @ **FIP Industriale**, Padova, Italy (Sep 2019 - Feb 2020)
-- Responsible for designing and implementing laboratory testing to assess novel isolator performance
-- Open-source code used to reproduce the tests and improve quality and validity of results
-- Designed base isolation systems for retrofitting existing structures
+**2017** &nbsp; Erasmus+ · Flanders Hydraulics Research, Belgium
 
-#### Postgraduated Fellow @ **EPhysLab**, University of Vigo, Spain (June 2018 - June 2019)
-- Part-time contract for Numerical modeling of wave energy converters (WECs)
-- Control, optimization, and survivability analyses of a PTO system developed by Sandia National Laboratories (US)
+---
 
-#### Erasmus+ @ **FLANDERS HYDRAULICS RESEARCH**, Belgium (Mar - Aug 2017 & Feb - Mar 2018)
-- Development and validation of a coupling technique of the Lagrangian model DualSPHysics with the NSLW model SWASH for coastal engineering applications
-- Visited the EPhysLab (Spain) to collaborate with the code developer team
-- Performed a second stage of two months to complement previous research, applying the technique to a dike wall
+## Education
 
-### EDUCATION
+**2018 → 2022** &nbsp; PhD in Engineering · University of Salerno, Italy *(European mention)*
 
-**Ph.D. in Risk and Sustainability in Civil, Architectural, and Environmental Engineering Systems**  
-*University of Salerno, Italy* (Nov 2018 - June 2022)  
-Thesis: "Seismic Protection of Adjustable Pallet Racking Structures with Isolation Systems" (With European mention)
+**2018** &nbsp; M.Sc. in Building Engineering and Architecture · University of Salerno, Italy *(Highest honors)*
 
-**M.Sc. in Building Engineering and Architecture** (with highest honors)  
-*University of Salerno, Italy* (May 2018)  
-Specialization in Seismic Design and Structural Optimization
+---
+
+[Home](index.md) · [Profile](profile.md) · [Research](research.md) · [Publications](publication.md) · [Experience](experience.md) · [Contact](contact.md)
