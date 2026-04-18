@@ -56,6 +56,7 @@ SPH-based numerical modeling for coastal engineering applications.
 - **DSPH-ChronoLib** — developer (2022–present)
 - Organizer of 3 international SPH user workshops (2019–2025)
 - Member of Technical Program Committees: RENEW 2026, SPHERIC 2024–2027
+
 ---
 
 [Home](index.md) · [Profile](profile.md) · [Research](research.md) · [Publications](publication.md) · [Experience](experience.md) · [Contact](contact.md)
