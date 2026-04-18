@@ -4,7 +4,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=JX
 
 ---
 
-## Journal Articles
+## Journal articles
 
 1. Capasso, S., Shahroozi, Z., Göteman, M., Martínez-Estévez, I., Viccione, G., and **Tagliafierro, B.** (2025). SPH-based modeling of a direct-drive WEC in extreme waves and currents. *Applied Ocean Research* 165, 104808. [DOI](https://doi.org/10.1016/j.apor.2025.104808)
 
