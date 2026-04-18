@@ -2,7 +2,7 @@
 
 ---
 
-## Current Position
+## Current position
 
 **Postdoctoral Research Fellow · Uppsala University, Sweden** (Aug 2024 – present)
 Marie Skłodowska-Curie Fellow · Dept. of Electrical Engineering
@@ -39,7 +39,7 @@ SPH-based numerical modeling for coastal engineering applications.
 
 ---
 
-## Awards & Fellowships
+## Awards & fellowships
 
 - **Best Paper Award** — OMAE 2024, Ocean Renewable Energy Symposium
 - **Marie Skłodowska-Curie Postdoctoral Fellowship** — Horizon Europe (2024–2026)
@@ -49,7 +49,7 @@ SPH-based numerical modeling for coastal engineering applications.
 ---
 
 
-## Open Source & Community
+## Open source & community
 
 - **DualSPHysics** — core developer and Wiki Coordinator (2018–present)
 - **DEM-Engine (Project Chrono)** — developer (2023–present)
