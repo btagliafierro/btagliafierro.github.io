@@ -19,7 +19,7 @@ Active collaborations with commercial partners including Hexicon AB (Sweden), WE
 
 ---
 
-[GitHub](https://github.com/btagliafierro) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=JX-TrjQAAAAJ) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203894923) · [Contact](contact.md)
+[GitHub](https://github.com/btagliafierro) · [Google Scholar](https://scholar.google.com/citations?user=pVzVQvMAAAAJ&hl=en) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57203894923) · [Contact](contact.md)
 
 ---
 
