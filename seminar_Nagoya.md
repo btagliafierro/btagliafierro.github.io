@@ -3,7 +3,7 @@ layout: seminar
 title: Seminar
 permalink: /seminar/
 ---
-## Invited Seminar @ NIT
+## Invited seminar @ NIT
 
 
 **Nagoya Institute of Technology (Japan)**<br>
