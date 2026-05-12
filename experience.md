@@ -5,6 +5,7 @@
 **2024 → present** &nbsp; Postdoctoral Fellow · Uppsala University, Sweden *(Marie Skłodowska-Curie Fellow)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;↳ **2025** &nbsp; UW–Madison SBEL, Wisconsin, USA *(research stay)*
+
 &nbsp;&nbsp;&nbsp;&nbsp;↳ **2025** &nbsp; EPhysLab, Universidade de Vigo, Spain *(research stay)*
 
 **2022 → 2024** &nbsp; Postdoctoral Fellow · BarcelonaTech (UPC), Spain
