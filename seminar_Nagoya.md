@@ -8,6 +8,7 @@ permalink: /seminar/
 
 **Nagoya Institute of Technology (Japan)** 
 **June 15, 2026**.
+**Speaker** Dr. Bonaventura Tagliafierro (Dept. of Electrical Engineering, Uppsala University – Sweden)
 Hosted by Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
 
 The session will be organized as a multi-session research-focused presentation, followed by ample discussion and Q&A.
@@ -41,7 +42,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
   <figure style="text-align: center;">
     <video controls style="width: 100%; max-width: 350px;">
-      <source src="video/tetra_4.mov" type="video/mov">
+      <source src="video/output_720.pm4" type="video/mp4">
     </video>
     <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
   </figure>
