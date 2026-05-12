@@ -38,6 +38,10 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 ---
 
+<video controls width="600">
+  <source src="video/fixed.mp4" type="video/mp4">
+</video>
+
 <div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
 
   <figure style="text-align: center; width: 100%; max-width: 700px;">
@@ -49,7 +53,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
   <figure style="text-align: center; width: 100%; max-width: 700px;">
     <video autoplay muted loop playsinline controls style="width: 100%;">
-      <source src="video/websafe.mp4" type="video/mp4">
+      <source src="video/fixed.mp4" type="video/mp4">
     </video>
     <figcaption>Platform response</figcaption>
   </figure>
