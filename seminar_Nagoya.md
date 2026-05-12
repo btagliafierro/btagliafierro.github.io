@@ -42,25 +42,13 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
     
 <source src="video/websafe.mp4" type="video/mp4">
-    
-
-<figure style="text-align: center; width: 100%; max-width: 700px; margin: 2em auto;">
-  <video 
-    autoplay="autoplay" 
-    muted="muted" 
-    loop="loop" 
-    playsinline="playsinline" 
-    controls="controls" 
-    style="width: 100%; height: auto; border: 1px solid #ccc;">
-    
-   <source src="video/websafe.mp4" type="video/mp4">
-    
-    <!-- Fallback message for debugging -->
-    <p>Your browser cannot play this video. Check if the file exists at: <b>video/websafe.mp4</b></p>
+ 
+<figure style="text-align: center; width: 100%; max-width: 700px; margin: auto;">
+  <video autoplay muted loop playsinline controls style="width: 100%;">
+    <!-- Starting with / ensures it looks at the root 'video' folder -->
+    <source src="/video/websafe.mp4" type="video/mp4">
   </video>
-  <figcaption style="font-style: italic; margin-top: 10px;">
-    Figure 1: solitary wave impact on a tetrapod breakwater.
-  </figcaption>
+  <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
 </figure>
 
 ## Literature
@@ -69,6 +57,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 *Numerical assessment of structural performance and passive damping effects in a hybrid wind–wave energy platform under operational and extreme wave conditions.*  
 Proceedings of the ASME 2026 45th OMAE 2026, Tokyo, Japan.
  
+[2] Mitsui, J., Altomare, C., Crespo, A. J. C., Domínguez, J. M., Martínez-Estévez, I., Suzuki, T., Kubota, S., & Gómez-Gesteira, M. (2023). *DualSPHysics modelling to analyse the response of Tetrapods against solitary wave*. Coastal Engineering, 183, Article 104315. https://doi.org/10.1016/j.coastaleng.2023.104315
 
 Links:
 - https://dual.sphysics.org/  
