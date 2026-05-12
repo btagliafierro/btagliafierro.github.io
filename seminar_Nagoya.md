@@ -6,7 +6,9 @@ permalink: /seminar/
 ## Invited Seminar
 
 
-This seminar is hosted at **Nagoya Institute of Technology** on **June 15, 2026**, following an invitation from Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
+**Nagoya Institute of Technology (Japan)** 
+**June 15, 2026**.
+Hosted by Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
 
 The session will be organized as a multi-session research-focused presentation, followed by ample discussion and Q&A.
 
@@ -38,12 +40,16 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 <div style="display: flex; gap: 20px; justify-content: center;">
 
   <figure style="text-align: center;">
-    <img src="/video/image.png" style="width: 100%; max-width: 350px;">
+    <video controls style="width: 100%; max-width: 350px;">
+      <source src="video/tetra_4.mov" type="video/mov">
+    </video>
     <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
   </figure>
 
   <figure style="text-align: center;">
-    <img src="/video/image.png" style="width: 100%; max-width: 350px;">
+    <video controls style="width: 100%; max-width: 350px;">
+      <source src="/video/extreme_zoom.mp4" type="video/mp4">
+    </video>
     <figcaption>Platform response</figcaption>
   </figure>
 
