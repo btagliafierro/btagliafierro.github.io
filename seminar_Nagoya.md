@@ -38,8 +38,12 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 ---
 
+<video controls width="700">
+  <source src="video/output.webm" type="video/webm">
+</video>
+
 <video controls width="600">
-  <source src="video/final.mp4" type="video/mp4">
+  <source src="video/tetra_4.mp4" type="video/mp4">
 </video>
 
 <div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
