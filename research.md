@@ -43,21 +43,5 @@ High-fidelity numerical modeling of floating offshore wind turbines (FOWT) and w
 
 ---
 
-## Leadership and participation in funded projects
-
-| Project | Role | Period |
-|---|---|---|
-| EuroHPC Regular Access — POW | PI | 2025–2026 |
-| ISCRA-C CINECA — PWRPRINT | PI | 2024 |
-| EuroHPC Extreme Scale Access | Member | 2023–2024 |
-| SURVIWEC (Spain) | Member | 2021–2025 |
-
----
-
-## Previous work
-
-Early career research in coastal engineering (breakwater design, anti-reflective caissons) and seismic engineering (isolation systems for industrial rack structures). Full details in [Publications](publication.md).
-
----
 
 [Home](index.md) · [Profile](profile.md) · [Research](research.md) · [Publications](publication.md) · [Experience](experience.md) · [Contact](contact.md)

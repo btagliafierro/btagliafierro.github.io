@@ -32,12 +32,6 @@ SPH-based numerical modeling for coastal engineering applications.
 
 ---
 
-## Education
-
-**PhD in Engineering** · University of Salerno, Italy (2022) — *European mention*
-**MSc in Building Engineering and Architecture** · University of Salerno, Italy (2018) — *Highest honors*
-
----
 
 ## Awards & fellowships
 
@@ -48,12 +42,11 @@ SPH-based numerical modeling for coastal engineering applications.
 
 ---
 
-
 ## Open source & community
 
-- **DualSPHysics** — core developer and Wiki Coordinator (2018–present)
-- **DEM-Engine (Project Chrono)** — developer (2023–present)
-- **DSPH-ChronoLib** — developer (2022–present)
+- **DualSPHysics** — developer and Wiki Coordinator (2018–present)
+- **DEM-Engine (Project Chrono)** — co-developer (2023–present)
+- **DSPH-ChronoLib** — co-developer (2022–present)
 - Organizer of 3 international SPH user workshops (2019–2025)
 - Member of Technical Program Committees: RENEW 2026, SPHERIC 2024–2027
 
