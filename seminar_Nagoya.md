@@ -56,18 +56,17 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
   <figcaption>Figure 2: DeepCwind plaform and a 5 MW wind turbine under extreme regular wave conditions with steady wind.</figcaption>
 </figure>
 
-## Literature
+### References
 
 <small>
-[1] Domínguez, J. M., Fourtakas, G., Altomare, C., Canelas, R. B., Tafuni, A., García-Feal, O., Martínez-Estévez, I., Mokos, A., Vacondio, R., Crespo, A. J. C., Rogers, B. D., Stansby, P. K., & Gómez-Gesteira, M. (2022). DualSPHysics: From fluid dynamics to multiphysics problems. Computational Particle Mechanics, 9(5), 867–895. https://doi.org/10.1007/s40571-021-00404-2
+[1] Domínguez, J. M., Fourtakas, G., Altomare, C., Canelas, R. B., Tafuni, A., García-Feal, O., Martínez-Estévez, I., Mokos, A., Vacondio, R., Crespo, A. J. C., Rogers, B. D., Stansby, P. K., & Gómez-Gesteira, M. (2022). DualSPHysics: From fluid dynamics to multiphysics problems. Computational Particle Mechanics, 9(5), 867–895. [https://doi.org/10.1007/s40571-021-00404-2](https://doi.org/10.1007/s40571-021-00404-2)
 
-[2] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M. *Numerical assessment of structural performance and passive damping effects in a hybrid wind–wave energy platform under operational and extreme wave conditions.*  Proceedings of the ASME 2026 45th OMAE 2026, Tokyo, Japan.
+[2] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M. *Numerical assessment of structural performance and passive damping effects in a hybrid wind–wave energy platform under operational and extreme wave conditions.* Proceedings of the ASME 2026 45th OMAE 2026, Tokyo, Japan.
 
-[3] Tagliafierro, B., Karimirad, M., Altomare, C., Göteman, M., Martínez-Estévez, I., Capasso, S., Domínguez, J. M., Viccione, G., Gómez-Gesteira, M., & Crespo, A. J. C. (2023). *Numerical validations and investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework.* Applied Ocean Research, 141, Article 103757. https://doi.org/10.1016/j.apor.2023.103757
- 
-[4] Mitsui, J., Altomare, C., Crespo, A. J. C., Domínguez, J. M., Martínez-Estévez, I., Suzuki, T., Kubota, S., & Gómez-Gesteira, M. (2023). *DualSPHysics modelling to analyse the response of Tetrapods against solitary wave*. Coastal Engineering, 183, Article 104315. https://doi.org/10.1016/j.coastaleng.2023.104315
+[3] Tagliafierro, B., Karimirad, M., Altomare, C., Göteman, M., Martínez-Estévez, I., Capasso, S., Domínguez, J. M., Viccione, G., Gómez-Gesteira, M., & Crespo, A. J. C. (2023). *Numerical validations and investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework.* Applied Ocean Research, 141, Article 103757. [https://doi.org/10.1016/j.apor.2023.103757](https://doi.org/10.1016/j.apor.2023.103757)
+
+[4] Mitsui, J., Altomare, C., Crespo, A. J. C., Domínguez, J. M., Martínez-Estévez, I., Suzuki, T., Kubota, S., & Gómez-Gesteira, M. (2023). *DualSPHysics modelling to analyse the response of Tetrapods against solitary wave*. Coastal Engineering, 183, Article 104315. [https://doi.org/10.1016/j.coastaleng.2023.104315](https://doi.org/10.1016/j.coastaleng.2023.104315)
 </small>
-
 
 ---
 
