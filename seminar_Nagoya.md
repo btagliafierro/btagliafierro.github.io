@@ -57,7 +57,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 </figure>
 
 
-#### Coastal Applications
+#### Coastal applications
 
 Ongoing work includes coastal impact and wave loading studies within the AURORA project (Spain), focusing on nonlinear wave effects and coastal resilience modeling.
 
