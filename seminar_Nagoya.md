@@ -37,13 +37,13 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 <div style="display: flex; gap: 20px; justify-content: center;">
 
   <figure style="text-align: center;">
-    <img src="/video/image.png" style="max-width: 400%; width: 400px;">
-    <figcaption>Caption for image 1</figcaption>
+    <img src="/video/image.png" style="width: 100%; max-width: 350px;">
+    <figcaption>SPH wave impact</figcaption>
   </figure>
 
   <figure style="text-align: center;">
-    <img src="/video/image.png" style="max-width: 400%; width: 400px;">
-    <figcaption>Caption for image 2</figcaption>
+    <img src="/video/image.png" style="width: 100%; max-width: 350px;">
+    <figcaption>Platform response</figcaption>
   </figure>
 
 </div>
