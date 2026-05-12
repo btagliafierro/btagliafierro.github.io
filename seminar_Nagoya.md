@@ -56,7 +56,21 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
   <figcaption>Figure 2: DeepCwind plaform and a 5 MW wind turbine under extreme regular wave conditions with steady wind.</figcaption>
 </figure>
 
-### References
+
+#### Coastal Applications
+
+Ongoing work includes coastal impact and wave loading studies within the GLORIA project (Spain), focusing on nonlinear wave effects and coastal resilience modeling.
+
+---
+
+**Supported by:**
+
+Marie Skłodowska-Curie Postdoctoral Fellowship program (MSC-PF, grant 101109440).<br>
+*Numerical Performance assessment of a Hybrid Platform for Wind–Wave power: structural implications under extreme wave* is funded in part by a personal travel grant from **The ÅForsk Foundation** (Ref. nr: 25-371).
+
+---
+
+**References**
 
 <small>
 [1] Domínguez, J. M., Fourtakas, G., Altomare, C., Canelas, R. B., Tafuni, A., García-Feal, O., Martínez-Estévez, I., Mokos, A., Vacondio, R., Crespo, A. J. C., Rogers, B. D., Stansby, P. K., & Gómez-Gesteira, M. (2022). DualSPHysics: From fluid dynamics to multiphysics problems. Computational Particle Mechanics, 9(5), 867–895. [https://doi.org/10.1007/s40571-021-00404-2](https://doi.org/10.1007/s40571-021-00404-2)
@@ -80,15 +94,4 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 
 ---
-
-## Coastal Applications
-
-Ongoing work includes coastal impact and wave loading studies within the GLORIA project (Spain), focusing on nonlinear wave effects and coastal resilience modeling.
-
----
-
-**Supported by:**
-
-Marie Skłodowska-Curie Postdoctoral Fellowship program (MSC-PF, grant 101109440).<br>
-*Numerical Performance assessment of a Hybrid Platform for Wind–Wave power: structural implications under extreme wave* is funded in part by a personal travel grant from **The ÅForsk Foundation** (Ref. nr: 25-371).
 
