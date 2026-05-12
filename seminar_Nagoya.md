@@ -34,6 +34,20 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 ---
 
+<div style="display: flex; gap: 20px; justify-content: center;">
+
+  <figure style="text-align: center;">
+    <img src="/video/image.png" style="max-width: 400%; width: 400px;">
+    <figcaption>Caption for image 1</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="/video/image.png" style="max-width: 400%; width: 400px;">
+    <figcaption>Caption for image 2</figcaption>
+  </figure>
+
+</div>
+
 ## Literature
 
 [1] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M.  
