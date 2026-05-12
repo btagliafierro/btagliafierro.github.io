@@ -6,8 +6,8 @@ permalink: /seminar/
 ## Invited Seminar
 
 
-**Nagoya Institute of Technology (Japan)** 
-**June 15, 2026**.
+**Nagoya Institute of Technology (Japan)**\ 
+**June 15, 2026**.\
 **Speaker** Dr. Bonaventura Tagliafierro (Dept. of Electrical Engineering, Uppsala University – Sweden)
 Hosted by Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
 
