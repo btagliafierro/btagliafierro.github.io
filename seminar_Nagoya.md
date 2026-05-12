@@ -38,16 +38,12 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 ---
 
-<img src="/video/image.png">
-
-    
- 
 <figure style="text-align: center; width: 100%; max-width: 700px; margin: auto;">
   <video autoplay muted loop playsinline controls style="width: 100%;">
     <!-- Starting with / ensures it looks at the root 'video' folder -->
     <source src="/video/video_1.mp4" type="video/mp4">
   </video>
-  <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
+  <figcaption>Figure 1: Solitary wave impact on a tetrapod breakwater with movable units.</figcaption>
 </figure>
 
 ## Literature
