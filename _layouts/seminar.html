@@ -2,16 +2,74 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ page.description | default: 'A minimalist webpage.' }}">
   <title>{{ page.title }}</title>
 
+  <!-- Google Fonts: Inter for UI/Body, Lora for Serifs -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
+
+  <!-- Sakura CSS Framework -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sakura.css/css/sakura.css" type="text/css">
+
+  <style>
+    :root {
+      /* Width Control */
+      --page-width: 42em; 
+      
+      /* Typography Overrides */
+      --font-body: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      --font-heading: 'Lora', serif;
+    }
+
+    body {
+      max-width: var(--page-width);
+      font-family: var(--font-body);
+      line-height: 1.6;
+      color: #333;
+      margin: auto;
+      padding: 2em 1em;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: var(--font-heading);
+      font-weight: 600;
+      color: #111;
+      margin-top: 1.5em;
+    }
+
+    /* Polish for the Nav and Footer */
+    nav a {
+      font-weight: 600;
+      text-decoration: none;
+      margin-right: 15px;
+    }
+
+    footer {
+      margin-top: 4em;
+      opacity: 0.7;
+    }
+  </style>
 </head>
 
 <body>
+  <header>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about">About</a>
+    </nav>
+  </header>
 
   <main>
+    <h1>{{ page.title }}</h1>
     {{ content }}
   </main>
 
+  <footer>
+    <hr>
+    <p><small>&copy; 2026</small></p>
+  </footer>
 </body>
 </html>
