@@ -46,6 +46,14 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
   <figcaption>Figure 1: Solitary wave impact on a tetrapod breakwater with movable units.</figcaption>
 </figure>
 
+<figure style="text-align: center; width: 100%; max-width: 700px; margin: auto;">
+  <video autoplay muted loop playsinline controls style="width: 100%;">
+    <!-- Starting with / ensures it looks at the root 'video' folder -->
+    <source src="/video/video_2.mp4" type="video/mp4">
+  </video>
+  <figcaption>Figure 1: Solitary wave impact on a tetrapod breakwater with movable units.</figcaption>
+</figure>
+
 ## Literature
 
 [1] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M.  
