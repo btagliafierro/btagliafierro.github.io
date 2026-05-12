@@ -38,54 +38,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 ---
 
-
-
-<div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
-
-  <figure style="text-align: center; width: 100%; max-width: 700px;">
-    <video autoplay muted loop playsinline controls style="width: 100%;">
-      <source src="video/websafe.mp4" type="video/mp4">
-    </video>
-    <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
-  </figure>
-
-  <figure style="text-align: center; width: 100%; max-width: 700px;">
-    <video autoplay muted loop playsinline controls style="width: 100%;">
-      <source src="video/fixed.mp4" type="video/mp4">
-    </video>
-    <figcaption>Platform response</figcaption>
-  </figure>
-
-</div>
-<div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
-
-<figure style="text-align: center; width: 100%; max-width: 700px; margin: 0 auto;">
-  <img src="video/image.png" alt="Solitary wave impact" style="width: 100%; height: auto; display: block;">
-  <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
-</figure>
-
-  <figure style="text-align: center; width: 100%; max-width: 700px;">
-    <img src="images/figure2.png" style="width: 100%; height: auto;">
-    <figcaption>Figure 2: floating platform response under wave loading.</figcaption>
-  </figure>
-
-</div>
-
-<figure style="text-align: center; width: 100%; max-width: 700px; margin: auto;">
-  <video 
-    autoplay 
-    muted 
-    loop 
-    playsinline 
-    controls 
-    style="width: 100%; height: auto; display: block;">
-    <source src="video/output_websafe.mp4" type="video/mp4">
-    
-  </video>
-  <figcaption style="margin-top: 8px;">
-    Figure 1: solitary wave impact on a tetrapod breakwater.
-  </figcaption>
-</figure>
+<img src="/video/image.png">
 
 ## Literature
 
