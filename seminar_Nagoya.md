@@ -3,7 +3,7 @@ layout: seminar
 title: Seminar
 permalink: /seminar/
 ---
-## Invited Seminar
+## Invited Seminar @ NIT
 
 
 **Nagoya Institute of Technology (Japan)**<br>
@@ -19,22 +19,24 @@ The session will be organized as a multi-session research-focused presentation, 
 
 ---
 
-In this seminar, I will present recent advances in the use of high-fidelity numerical methods for offshore renewable energy and coastal engineering applications. The presentation will focus on the SPH-based solver DualSPHysics, coupled with the multi-physics framework Project Chrono, for simulating nonlinear wave–structure interactions involving floating offshore wind turbines, wave energy converters, and coastal impact problems. These tools enable detailed analyses of hydrodynamic and structural response under demanding environmental conditions, including extreme waves and coupled fluid–structure dynamics.
+In this seminar, I will present recent advances in the use of high-fidelity numerical methods for offshore renewable energy and coastal engineering applications. My presentations will focus on the SPH-based solver DualSPHysics, coupled with the multi-physics framework Project Chrono, for simulating nonlinear wave–structure interactions and multi-body dynamics, involving floating offshore wind turbines, wave energy converters, and coastal impact problems. DualSPHysics enables detailed analyses of hydrodynamic and structural response under demanding environmental conditions, including extreme waves and coupled fluid–structure dynamics.
 
-The seminar will begin with an overview of the main engineering challenges associated with offshore renewable energy systems and the need for accurate numerical approaches capable of resolving complex free-surface flows and platform dynamics. I will then present several research studies developed using this numerical framework, including recent work presented at the ASME OMAE 2026 conference on the structural performance of hybrid wind–wave energy platforms under operational and extreme wave conditions. Particular attention will be given to the influence of passive damping strategies on platform motion and structural loading, as well as the role of SPH methods in capturing nonlinear hydrodynamic effects that are difficult to resolve with conventional approaches.
+After a concise introduction to the Smoothed Particle Hydrodynamic (SPH) method and its implementation in DualSPHysics, the seminar will begin with an overview of the main engineering challenges associated with offshore renewable energy systems (RES) and the need for accurate numerical approaches capable of resolving complex free-surface flows and platform dynamics. I will then present several research studies developed using this numerical framework, including recent work presented at the ASME OMAE 2026 conference (7–13 June, Tokyo) on the structural performance of hybrid wind–wave energy platforms under operational and extreme wave conditions. In addition, a novel implementation of the DualSPHysics coupled to OpenFAST will be presented in its validation, going over possible new research horizons opened up by this new coupling.
 
-Finally, I will discuss current developments and future opportunities for SPH-based high-fidelity modeling, including ongoing collaborative work related to coastal engineering applications within the GLORIA project in Spain. The presentation will conclude with perspectives on multi-GPU acceleration, turbulence modeling, and the expanding role of open-source multi-physics frameworks in offshore and coastal engineering research.
+Finally, I will discuss current developments and future opportunities for SPH-based high-fidelity modeling, including ongoing collaborative work related to coastal engineering applications, including new investigations for wave–structure interaction with perspectives on multi-GPU acceleration, turbulence modeling, and the expanding role of open-source multi-physics frameworks in offshore and coastal engineering research. All of these features are soon to be released with DualSPHysics 6.0.
 
 ---
 
 ## Agenda
 
-1. Modeling of offshore renewable energy systems  
-2. SPH-based multiphysics simulation framework  
-3. Floating wind and wave energy platforms  
-4. Extreme wave and structural response analysis  
-5. Coastal engineering applications (GLORIA project)  
-6. Conclusions & discussion  
+1. Introduction to SPH and DualSPHysics
+2. DualSPHysics and coupled multi-physics simulations
+3. Modeling challenges in offshore renewable energy systems
+4. Hybrid wind–wave platforms and structural response analysis
+5. Extreme wave conditions and passive damping effects
+6. Coastal engineering applications
+7. Future directions for SPH-based high-fidelity modeling
+8. Conclusions & Q&A 
 
 ---
 
@@ -51,7 +53,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
     <!-- Starting with / ensures it looks at the root 'video' folder -->
     <source src="/video/video_2.mp4" type="video/mp4">
   </video>
-  <figcaption>Figure 1: Solitary wave impact on a tetrapod breakwater with movable units.</figcaption>
+  <figcaption>Figure 2: DeepCwind plaform and a 5 MW wind turbine under extreme regular wave conditions with steady wind.</figcaption>
 </figure>
 
 ## Literature
