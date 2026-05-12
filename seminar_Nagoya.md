@@ -40,6 +40,29 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 <img src="/video/image.png">
 
+    
+<source src="video/websafe.mp4" type="video/mp4">
+    
+
+<figure style="text-align: center; width: 100%; max-width: 700px; margin: 2em auto;">
+  <video 
+    autoplay="autoplay" 
+    muted="muted" 
+    loop="loop" 
+    playsinline="playsinline" 
+    controls="controls" 
+    style="width: 100%; height: auto; border: 1px solid #ccc;">
+    
+   <source src="video/websafe.mp4" type="video/mp4">
+    
+    <!-- Fallback message for debugging -->
+    <p>Your browser cannot play this video. Check if the file exists at: <b>video/websafe.mp4</b></p>
+  </video>
+  <figcaption style="font-style: italic; margin-top: 10px;">
+    Figure 1: solitary wave impact on a tetrapod breakwater.
+  </figcaption>
+</figure>
+
 ## Literature
 
 [1] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M.  
