@@ -1,0 +1,67 @@
+---
+layout: page
+title: Seminar
+permalink: /seminar/
+---
+## Invited Seminar
+
+This seminar is hosted at **Nagoya Institute of Technology**, following an invitation from Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
+The session will be organized as a research-focused presentation, followed by discussion and Q&A.
+
+---
+ 
+### Multi-physics Engineering Problems in Renewable Energy and Coastal Defense with the Smoothed Particle Hydrodynamics Method
+
+
+---
+
+In this seminar, I will present recent advances in the use of high-fidelity numerical methods for offshore renewable energy and coastal engineering applications. The presentation will focus on the SPH-based solver DualSPHysics, coupled with the multi-physics framework Project Chrono, for simulating nonlinear wave–structure interactions involving floating offshore wind turbines, wave energy converters, and coastal impact problems. These tools enable detailed analyses of hydrodynamic and structural response under demanding environmental conditions, including extreme waves and coupled fluid–structure dynamics.
+
+The seminar will begin with an overview of the main engineering challenges associated with offshore renewable energy systems and the need for accurate numerical approaches capable of resolving complex free-surface flows and platform dynamics. I will then present several research studies developed using this numerical framework, including recent work presented at the ASME OMAE 2026 conference on the structural performance of hybrid wind–wave energy platforms under operational and extreme wave conditions. Particular attention will be given to the influence of passive damping strategies on platform motion and structural loading, as well as the role of SPH methods in capturing nonlinear hydrodynamic effects that are difficult to resolve with conventional approaches.
+
+Finally, I will discuss current developments and future opportunities for SPH-based high-fidelity modeling, including ongoing collaborative work related to coastal engineering applications within the GLORIA project in Spain. The presentation will conclude with perspectives on multi-GPU acceleration, turbulence modeling, and the expanding role of open-source multi-physics frameworks in offshore and coastal engineering research.
+
+---
+
+## Agenda
+
+1. Modeling of offshore renewable energy systems  
+2. SPH-based multiphysics simulation framework  
+3. Floating wind and wave energy platforms  
+4. Extreme wave and structural response analysis  
+5. Coastal engineering applications (GLORIA project)  
+6. Conclusions & discussion  
+
+---
+
+## Literature
+
+[1] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M.  
+*Numerical assessment of structural performance and passive damping effects in a hybrid wind–wave energy platform under operational and extreme wave conditions.*  
+Proceedings of the ASME 2026 45th OMAE 2026, Tokyo, Japan.
+
+
+
+## Numerical Framework
+
+- DualSPHysics (GPU-accelerated SPH solver)  
+- Project Chrono (multi-body dynamics)  
+- Fully coupled fluid–structure interaction  
+- Extreme wave and offshore conditions  
+
+Links:
+- https://dual.sphysics.org/  
+- https://projectchrono.org/  
+
+---
+
+## Coastal Applications
+
+Ongoing work includes coastal impact and wave loading studies within the GLORIA project (Spain), focusing on nonlinear wave effects and coastal resilience modeling.
+
+---
+
+## About
+
+Uppsala University — Electrical Engineering  
+Offshore Renewable Energy | SPH Modeling | Fluid–Structure Interaction
