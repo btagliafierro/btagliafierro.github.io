@@ -9,7 +9,7 @@ permalink: /seminar/
 **Nagoya Institute of Technology (Japan)**<br>
 **June 15, 2026**<br>
 **Speaker:** Dr. Bonaventura Tagliafierro (Dept. of Electrical Engineering, Uppsala University – Sweden)<br>
-Hosted by Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
+**Host:** Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
 
 The session will be organized as a multi-session research-focused presentation, followed by ample discussion and Q&A.
 
@@ -35,7 +35,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 4. Hybrid wind–wave platforms and structural response analysis
 5. Extreme wave conditions and passive damping effects
 6. Coastal engineering applications
-7. Future directions for SPH-based high-fidelity modeling
+7. Future applications of SPH-based high-fidelity modeling
 8. Conclusions & Q&A 
 
 ---
