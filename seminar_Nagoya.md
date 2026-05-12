@@ -61,8 +61,10 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 [1] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M.  
 *Numerical assessment of structural performance and passive damping effects in a hybrid wind–wave energy platform under operational and extreme wave conditions.*  
 Proceedings of the ASME 2026 45th OMAE 2026, Tokyo, Japan.
+
+[2] Tagliafierro, B., Karimirad, M., Altomare, C., Göteman, M., Martínez-Estévez, I., Capasso, S., Domínguez, J. M., Viccione, G., Gómez-Gesteira, M., & Crespo, A. J. C. (2023). *Numerical validations and investigation of a semi-submersible floating offshore wind turbine platform interacting with ocean waves using an SPH framework.* Applied Ocean Research, 141, Article 103757. https://doi.org/10.1016/j.apor.2023.103757
  
-[2] Mitsui, J., Altomare, C., Crespo, A. J. C., Domínguez, J. M., Martínez-Estévez, I., Suzuki, T., Kubota, S., & Gómez-Gesteira, M. (2023). *DualSPHysics modelling to analyse the response of Tetrapods against solitary wave*. Coastal Engineering, 183, Article 104315. https://doi.org/10.1016/j.coastaleng.2023.104315
+[3] Mitsui, J., Altomare, C., Crespo, A. J. C., Domínguez, J. M., Martínez-Estévez, I., Suzuki, T., Kubota, S., & Gómez-Gesteira, M. (2023). *DualSPHysics modelling to analyse the response of Tetrapods against solitary wave*. Coastal Engineering, 183, Article 104315. https://doi.org/10.1016/j.coastaleng.2023.104315
 
 Links:
 - https://dual.sphysics.org/  
