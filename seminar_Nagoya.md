@@ -15,7 +15,7 @@ The session will be organized as a multi-session research-focused presentation, 
 
 ---
  
-### Multi-physics Engineering Problems in Renewable Energy and Coastal Defense with the Smoothed Particle Hydrodynamics Method
+### Multi-physics engineering problems in renewable energy and coastal defense with the Smoothed Particle Hydrodynamics method
 
 ---
 
