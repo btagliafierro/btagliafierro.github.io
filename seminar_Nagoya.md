@@ -74,7 +74,7 @@ Ongoing work includes coastal impact and wave loading studies within the GLORIA 
 
 ---
 
-## About
+**Supported by:**
 
-Uppsala University — Electrical Engineering  
-Offshore Renewable Energy | SPH Modeling | Fluid–Structure Interaction
+*Numerical Performance assessment of a Hybrid Platform for Wind–Wave power: structural implications under extreme wave* is funded in part by a personal travel grant from **The ÅForsk Foundation** (Ref. nr: 25-371).
+
