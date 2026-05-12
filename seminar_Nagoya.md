@@ -38,18 +38,18 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 ---
 
-<div style="display: flex; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
 
-  <figure style="text-align: center;">
-    <video controls style="width: 100%; max-width: 350px;">
+  <figure style="text-align: center; width: 100%; max-width: 700px;">
+    <video autoplay muted loop playsinline controls style="width: 100%;">
       <source src="video/output_720.mp4" type="video/mp4">
     </video>
     <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
   </figure>
 
-  <figure style="text-align: center;">
-    <video controls style="width: 100%; max-width: 350px;">
-      <source src="/video/output_720.mp4" type="video/mp4">
+  <figure style="text-align: center; width: 100%; max-width: 700px;">
+    <video autoplay muted loop playsinline controls style="width: 100%;">
+      <source src="video/output_720.mp4" type="video/mp4">
     </video>
     <figcaption>Platform response</figcaption>
   </figure>
