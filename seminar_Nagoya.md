@@ -89,5 +89,6 @@ Ongoing work includes coastal impact and wave loading studies within the GLORIA 
 
 **Supported by:**
 
-My researach is supported by the Marie Skłodowska-Curie Postdoctoral Fellowship program (MSC-PF, grant 101109440). *Numerical Performance assessment of a Hybrid Platform for Wind–Wave power: structural implications under extreme wave* is funded in part by a personal travel grant from **The ÅForsk Foundation** (Ref. nr: 25-371).
+Marie Skłodowska-Curie Postdoctoral Fellowship program (MSC-PF, grant 101109440).<br>
+*Numerical Performance assessment of a Hybrid Platform for Wind–Wave power: structural implications under extreme wave* is funded in part by a personal travel grant from **The ÅForsk Foundation** (Ref. nr: 25-371).
 
