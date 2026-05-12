@@ -38,13 +38,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
 ---
 
-<video controls width="700">
-  <source src="video/output.webm" type="video/webm">
-</video>
 
-<video controls width="600">
-  <source src="video/tetra_4.mp4" type="video/mp4">
-</video>
 
 <div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
 
@@ -63,6 +57,35 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
   </figure>
 
 </div>
+<div style="display: flex; flex-direction: column; gap: 30px; align-items: center;">
+
+  <figure style="text-align: center; width: 100%; max-width: 700px;">
+    <img src="video/image.png" style="width: 100%; height: auto;">
+    <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 100%; max-width: 700px;">
+    <img src="images/figure2.png" style="width: 100%; height: auto;">
+    <figcaption>Figure 2: floating platform response under wave loading.</figcaption>
+  </figure>
+
+</div>
+
+<figure style="text-align: center; width: 100%; max-width: 700px; margin: auto;">
+  <video 
+    autoplay 
+    muted 
+    loop 
+    playsinline 
+    controls 
+    style="width: 100%; height: auto; display: block;">
+    <source src="video/output_websafe.mp4" type="video/mp4">
+    
+  </video>
+  <figcaption style="margin-top: 8px;">
+    Figure 1: solitary wave impact on a tetrapod breakwater.
+  </figcaption>
+</figure>
 
 ## Literature
 
