@@ -5,13 +5,14 @@ permalink: /seminar/
 ---
 ## Invited Seminar
 
-This seminar is hosted at **Nagoya Institute of Technology**, following an invitation from Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
-The session will be organized as a research-focused presentation, followed by discussion and Q&A.
+
+This seminar is hosted at **Nagoya Institute of Technology** on **June 15, 2026**, following an invitation from Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
+
+The session will be organized as a multi-session research-focused presentation, followed by ample discussion and Q&A.
 
 ---
  
 ### Multi-physics Engineering Problems in Renewable Energy and Coastal Defense with the Smoothed Particle Hydrodynamics Method
-
 
 ---
 
@@ -38,7 +39,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 
   <figure style="text-align: center;">
     <img src="/video/image.png" style="width: 100%; max-width: 350px;">
-    <figcaption>SPH wave impact</figcaption>
+    <figcaption>Figure 1: solitary wave impact on a tetrapod breakwater.</figcaption>
   </figure>
 
   <figure style="text-align: center;">
@@ -53,15 +54,7 @@ Finally, I will discuss current developments and future opportunities for SPH-ba
 [1] Tagliafierro, B., Capasso, S., Martínez-Estévez, I., Domínguez, J.M., Mina, B., Viccione, G., Gómez-Gesteira, M., Karimirad, M., Crespo, A.J.C., Göteman, M.  
 *Numerical assessment of structural performance and passive damping effects in a hybrid wind–wave energy platform under operational and extreme wave conditions.*  
 Proceedings of the ASME 2026 45th OMAE 2026, Tokyo, Japan.
-
-
-
-## Numerical Framework
-
-- DualSPHysics (GPU-accelerated SPH solver)  
-- Project Chrono (multi-body dynamics)  
-- Fully coupled fluid–structure interaction  
-- Extreme wave and offshore conditions  
+ 
 
 Links:
 - https://dual.sphysics.org/  
