@@ -7,7 +7,9 @@ permalink: /seminar/
 
 
 **Nagoya Institute of Technology (Japan)**<br>
-**June 15, 2026**<br>
+**Date and time:** June 15, 2026, 15:00–16:30<br>
+**Venue:** Room 2439, Building 24<br>
+**Format:** In-person seminar<br>
 **Speaker:** Dr. Bonaventura Tagliafierro (Dept. of Electrical Engineering, Uppsala University – Sweden)<br>
 **Host:** Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
 
