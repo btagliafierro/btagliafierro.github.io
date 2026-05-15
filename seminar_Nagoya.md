@@ -13,6 +13,8 @@ permalink: /seminar/
 **Speaker:** Dr. Bonaventura Tagliafierro (Dept. of Electrical Engineering, Uppsala University – Sweden)<br>
 **Host:** Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
 
+**For further infomarion:** contact [Annarosa Lettieri](mailto:lettieri.annarosa@nitech.ac.jp)
+
 The session will be organized as a multi-session research-focused presentation, followed by ample discussion and Q&A.
 
 ---
