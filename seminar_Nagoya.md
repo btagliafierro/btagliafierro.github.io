@@ -10,8 +10,9 @@ permalink: /seminar/
 **Date and time:** June 15, 2026, 15:00–16:30<br>
 **Venue:** Room 2439, Building 24<br>
 **Format:** In-person seminar<br>
+**Organizer:** Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering)<br>
 **Speaker:** Dr. Bonaventura Tagliafierro (Dept. of Electrical Engineering, Uppsala University – Sweden)<br>
-**Host:** Dr. Annarosa Lettieri (Department of Engineering, Architecture, Civil Engineering, and Industrial Management Engineering). 
+
 
 **For further infomarion:** contact [Annarosa Lettieri](mailto:lettieri.annarosa@nitech.ac.jp)
 
@@ -68,7 +69,7 @@ Ongoing work includes coastal impact and wave loading studies within the AURORA 
 ---
 
 #### About the speaker
-Bonaventura Tagliafierro is a Researcher in Renewable Energy Systems and Numerical Modeling. Now Marie Skłodowska-Curie Fellow at Uppsala University (Sweden) at the Dept. of Electrical Engineering, advised by Prof. Malin Göteman. Completed his doctoral program at the University of Salerno (Italy – 2022), specializing in design of steel structures and numerical methods for structural verification. Has been collaborating with EPhysLab (University of Vigo, Spain) since 2019 as a researcher and has also joined the DualSPHysics code project, and since 2023 acts as Wiki Coordinator. Research interests include finite element analysis, computational fluid dynamics, dynamics of multibody systems, and coupling between fluid and solid mechanics. Computational methodologies include the Smoothed Particle Hydrodynamics (SPH) technique: a meshless method for developing Lagrangian frameworks. Code applications involve wave energy converters, floating offshore wind turbine platforms, and steel structures, aiming at investigating performance under extreme events. Formerly, post-doctoral researcher at the Universitat Politècnica de Catalunya (2022–2024, Spain); was awarded a Fulbright Schuman fellowship to research on the numerical implementation of control systems for offshore wind technology at Simulation Based Engineering Lab (SBEL, UW-Madison, US) using Project Chrono.
+Bonaventura Tagliafierro is a Researcher in Renewable Energy Systems and Numerical Modeling. Now Marie Skłodowska-Curie Fellow at Uppsala University (Sweden) at the Dept. of Electrical Engineering, advised by Prof. Malin Göteman. Completed his doctoral program at the University of Salerno (Italy – 2022), specializing in design of steel structures and numerical methods for structural verification. Has been collaborating with EPhysLab (University of Vigo, Spain) since 2019 as a researcher and has also joined the DualSPHysics code project, and since 2025 acts as Wiki Coordinator. Research interests include finite element analysis, computational fluid dynamics, dynamics of multibody systems, and coupling between fluid and solid mechanics. Computational methodologies include the Smoothed Particle Hydrodynamics (SPH) technique: a meshless method for developing Lagrangian frameworks. Code applications involve wave energy converters, floating offshore wind turbine platforms, and steel structures, aiming at investigating performance under extreme events. Formerly, post-doctoral researcher at the Universitat Politècnica de Catalunya (2022–2024, Spain); was awarded a Fulbright Schuman fellowship to research on the numerical implementation of control systems for offshore wind technology at Simulation Based Engineering Lab (SBEL, UW-Madison, US) using Project Chrono.
 
 ---
 
