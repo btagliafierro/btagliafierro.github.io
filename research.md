@@ -20,7 +20,7 @@ The core technical contribution is a physics-aware neural surrogate for hydrodyn
 - Linear GPU scalability with number of floating turbines (or platform)
 - Farm-scale parallel inference in two-single GPU calls
 
-**HPC resources:** so far 51,400 node-hours on MareNostrum5 (EuroHPC) · 200,000 GPU-hours on Pell Uppmax ·12,000 GPU-hours on CINECA Leonardo
+**HPC resources:** so far 51,400 node-hours on MareNostrum5 (EuroHPC); 200,000 GPU-hours on Pelle UPPMAX
 
 ---
 
