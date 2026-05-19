@@ -3,7 +3,7 @@ layout: seminar
 title: Seminar
 permalink: /seminar/
 ---
-## Invited seminar @ NIT
+## Invited seminar @ NITech
 
 
 **Nagoya Institute of Technology (Japan)**<br>
@@ -14,9 +14,9 @@ permalink: /seminar/
 **Speaker:** Dr. Bonaventura Tagliafierro (Dept. of Electrical Engineering, Uppsala University – Sweden)<br>
 
 
-**For further infomarion:** contact [Annarosa Lettieri](mailto:lettieri.annarosa@nitech.ac.jp)
+**For further information:** contact [Annarosa Lettieri](mailto:lettieri.annarosa@nitech.ac.jp)
 
-The session will be organized as a multi-session research-focused presentation, followed by ample discussion and Q&A.
+**Participation** you can drop in anytime, but if you know you will join, please [Notify]([(https://docs.google.com/forms/d/e/1FAIpQLSewSFDDEcol2XJYTiEQzQC4Hzxw4KyVS9fPGKYhG3ZVvDXlWA/viewform?usp=publish-editor)]) us.
 
 ---
  
