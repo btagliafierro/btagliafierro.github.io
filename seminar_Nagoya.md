@@ -16,7 +16,7 @@ permalink: /seminar/
 
 **For further information:** contact [Annarosa Lettieri](mailto:lettieri.annarosa@nitech.ac.jp)
 
-**Participation** you can drop in anytime, but if you know you will join, please [Notify]([(https://docs.google.com/forms/d/e/1FAIpQLSewSFDDEcol2XJYTiEQzQC4Hzxw4KyVS9fPGKYhG3ZVvDXlWA/viewform?usp=publish-editor)]) us.
+**Participation** you can drop in anytime, but if you know you will join, please [Notify](https://docs.google.com/forms/d/e/1FAIpQLSewSFDDEcol2XJYTiEQzQC4Hzxw4KyVS9fPGKYhG3ZVvDXlWA/viewform?usp=publish-editor) us.
 
 ---
  
